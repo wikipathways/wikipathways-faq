@@ -1,2 +1,2 @@
 # wikipathways-help
-Help documentation for the WikiPathways project
+This repo organizes Help documentation for the WikiPathways project, including FAQs and other discussions. 
